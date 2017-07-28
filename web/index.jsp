@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+   这是一个测试 index.jsp
   </body>
 </html>
